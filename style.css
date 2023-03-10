@@ -535,6 +535,7 @@ button {
 }
 
 .scrollToTop {
+    cursor: pointer;
     width: 40px;
     height: 40px;
     position: fixed;
